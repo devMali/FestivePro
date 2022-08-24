@@ -1,0 +1,69 @@
+/* CSS Document */
+* {
+    box-sizing: border-box;
+}
+
+input[type=file], input[type=text], input[type=number], input[type=password], input[type=email], select, textarea{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 1px 10px;
+    box-sizing: border-box;
+    resize: vertical;
+	caret-color:#b52e31;
+	color:#333333;
+	white-space:initial;
+}
+input[type=submit]{
+	color:#006633;
+	width:40%;
+}
+input[type=button]{
+	color:#b52e31;
+	width:40%;
+}
+table {
+    border-collapse: collapse;
+    width:50%;
+	border:thin;
+	border-color:#999999;
+	}
+th, td {
+    background-color:#F5F5F5;
+    padding: 8px;
+	text-align:center;
+	overflow:hidden;
+}
+td:hover {
+    background-color:#F5F5F5;
+    padding: 8px;
+	text-align:center;
+	overflow:auto;
+}
+
+th {
+    background-color: #b52e31;
+    color: white;
+	
+}
+body
+{    font-family: 'Roboto', sans-serif;
+}
+.table {
+    border-collapse: collapse;
+    width:100%;
+	border:thin;
+	border-color:#999999;
+	table-layout:fixed;
+	}
+.table td{
+	vertical-align:top;
+	text-align:left;
+	overflow:hidden;
+}
+.table td:hover{
+	vertical-align:top;
+	text-align:left;
+	overflow:auto;
+}
+
