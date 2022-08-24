@@ -2,10 +2,13 @@
 FestivePro-selling festivals products on web. The final year project of BCA in PHP,MYSQL,HTML,CSS,JS,etc.
 
 ----OVERVIEW---
+
 This is a E-commerce website for selling festival's products online.
 It is a final year project of BCA by DEVENDRA MALI.
 
 ---CUSTOMER SIDE---
+
+
 *With this web application user can purchase festival products.
 *User can see and buy different products based on festival category.
 *Customer can also add the product to wishlist for purchasing later.
@@ -18,6 +21,7 @@ It is a final year project of BCA by DEVENDRA MALI.
 *And finally if user have any query they can send message to admin.
 
 ---ADMIN SIDE---
+
 *Admin can add/update/delete categories/sub-categories.
 *Admin can add/update/delete product units.
 *Admin can add/update/delete products with image.
